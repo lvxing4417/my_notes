@@ -1,7 +1,7 @@
 {
   "app": "local-notes",
   "version": 1,
-  "updated": 1788101585826,
+  "updated": 1788101593994,
   "notes": [
     {
       "id": "mtfw3fqtbplp15",
@@ -32,7 +32,10 @@
       "attachments": [],
       "marks": [],
       "created": 1788099250650,
-      "updated": 1788099250650
+      "updated": 1788099250650,
+      "doodle": {
+        "strokes": []
+      }
     }
   ],
   "categories": [
