@@ -1,7 +1,7 @@
 {
   "app": "local-notes",
   "version": 1,
-  "updated": 1788261022956,
+  "updated": 1788261320918,
   "notes": [
     {
       "id": "mtikfqzv9xy88t",
@@ -65,10 +65,12 @@
   "categories": [
     "未分类",
     "高等数学",
-    "英语六级"
+    "英语六级",
+    "数据结构"
   ],
   "catColors": {
     "高等数学": "#3b6cff",
-    "英语六级": "#ff6b6b"
+    "英语六级": "#ff6b6b",
+    "数据结构": "#a855f7"
   }
 }
