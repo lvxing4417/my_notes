@@ -1,7 +1,7 @@
 {
   "app": "local-notes",
   "version": 1,
-  "updated": 1789132383197,
+  "updated": 1789132466693,
   "notes": [
     {
       "id": "mtlgzqrfh4zyen",
@@ -17,6 +17,11 @@
       "updated": 1788436673735,
       "doodle": {
         "strokes": []
+      },
+      "drawing": {
+        "strokes": [],
+        "items": [],
+        "h": 4000
       }
     },
     {
