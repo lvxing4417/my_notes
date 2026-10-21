@@ -1,7 +1,7 @@
 {
   "app": "local-notes",
   "version": 1,
-  "updated": 1792575300283,
+  "updated": 1792575316568,
   "notes": [
     {
       "id": "mvhx0am5nq1x4i",
@@ -10,12 +10,7 @@
       "category": "IIC",
       "tags": [],
       "attachments": [],
-      "marks": [
-        {
-          "text": " VCC (3.3V)\n           |\n          [Rp] 4.7kΩ",
-          "color": "rgba(255,221,51,.45)"
-        }
-      ],
+      "marks": [],
       "created": 1792575228605,
       "updated": 1792575243672,
       "doodle": {
