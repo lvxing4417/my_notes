@@ -1,7 +1,7 @@
 {
   "app": "local-notes",
   "version": 1,
-  "updated": 1792575690442,
+  "updated": 1792575861324,
   "notes": [
     {
       "id": "mvhx0am5nq1x4i",
@@ -17,6 +17,18 @@
         },
         {
           "text": "PB6 | PB7 ",
+          "color": "rgba(255,221,51,.45)"
+        },
+        {
+          "text": " 低速总线 | 标准模式 100 kbps，",
+          "color": "rgba(255,221,51,.45)"
+        },
+        {
+          "text": "半双工",
+          "color": "rgba(255,221,51,.45)"
+        },
+        {
+          "text": "串行",
           "color": "rgba(255,221,51,.45)"
         }
       ],
